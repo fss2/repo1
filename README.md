@@ -6,4 +6,21 @@ Another line
 Yet another line by fss3
 The last line by ff2 is replaced by fss3.
 
+
 We love conflict. Changed by fss2.
+
+Adapter file: adapters.fa
+
+
+# Zea Mays SNP Calling Project
+Project started 2013-01-03.
+## Samples
+Samples downloaded 2013-01-11 into `data/seqs`:
+data/seqs/zmaysA_R1.fastq
+data/seqs/zmaysA_R2.fastq
+data/seqs/zmaysB_R1.fastq
+data/seqs/zmaysB_R2.fastq
+data/seqs/zmaysC_R1.fastq
+data/seqs/zmaysC_R2.fastq
+## Reference 
+>>>>>>> 47731fded452a28db74012f5426de986414b063a
