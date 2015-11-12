@@ -23,4 +23,4 @@ data/seqs/zmaysB_R2.fastq
 data/seqs/zmaysC_R1.fastq
 data/seqs/zmaysC_R2.fastq
 ## Reference 
->>>>>>> 47731fded452a28db74012f5426de986414b063a
+
