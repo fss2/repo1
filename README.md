@@ -19,4 +19,4 @@ data/seqs/zmaysB_R1.fastq
 data/seqs/zmaysB_R2.fastq
 data/seqs/zmaysC_R1.fastq
 data/seqs/zmaysC_R2.fastq
-## Reference
+## Reference 
